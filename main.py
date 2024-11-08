@@ -9,7 +9,7 @@ Currentgeneration = 0
 
 class Car:
     def __init__(self):
-        self.sprite = pygame.image.load('car.png').convert()  # Convert speeds up display rendering
+        self.sprite = pygame.image.load('car.png').convert()
         self.sprite = pygame.transform.scale(self.sprite, (CarSizeX, CarSizeY))
         self.rotated_sprite = self.sprite
 
