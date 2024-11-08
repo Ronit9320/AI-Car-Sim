@@ -1,6 +1,6 @@
 # AI-Powered Car Simulation
 
-This project is a car simulation environment that uses a Neuroevolution of Augmenting Topologies (NEAT) algorithm to train cars to navigate a race track. The cars are equipped with sensors that provide information about their surroundings, and the NEAT algorithm evolves their neural networks to learn the optimal driving behavior. This code is heavily inspired from the AI-Car-Simulation repo by NeuralNine
+This project is a car simulation environment that uses a Neuroevolution of Augmenting Topologies (NEAT) algorithm to train cars to navigate a race track. The cars are equipped with sensors that provide information about their surroundings, and the NEAT algorithm evolves their neural networks to learn the optimal driving behavior. This code is heavily inspired from the AI-Car-Simulation repo by NeuralNine.
 
 ## Features
 
